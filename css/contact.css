@@ -111,3 +111,26 @@ input, textarea {
         margin-right: 1.5rem;
     }
 }
+
+/* MEDIA QUERIES - PHONES */
+
+@media screen and (max-width: 600px) {
+  .contact_container {
+    grid-template-columns: 1fr;
+    gap: 3rem;
+    margin-top: 0;
+    padding: 0;
+  }
+
+  .contact_form{
+    margin: 0 1.5rem 3rem;
+  }
+
+  .form_name {
+    flex-direction: column;
+  }
+
+  .form_name input[type="text"] {
+    width: 100%;
+  }
+}
