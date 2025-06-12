@@ -99,4 +99,10 @@ input, textarea {
         height: auto;
         padding: 1.5rem;
     }
+
+    .contact_aside {
+        width: auto;
+        padding: 1.5rem;
+        bottom: 0;
+    }
 }
