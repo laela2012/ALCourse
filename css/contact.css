@@ -105,4 +105,9 @@ input, textarea {
         padding: 1.5rem;
         bottom: 0;
     }
+
+    .contact_form {
+        align-self: center;
+        margin-right: 1.5rem;
+    }
 }
