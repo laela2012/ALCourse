@@ -157,10 +157,6 @@ transition: var(--transition);
 /* Media queries Mobile phone */
 @media screen and (max-width: 414px) {
 
-    body{
-        background: yellow;
-    }
-
     /* Achievement */
   /* .achievements__cards {
     grid-template-columns: 1fr;
